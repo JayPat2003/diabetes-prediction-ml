@@ -30,6 +30,8 @@ To set up the project environment, you can use the following steps:
    git clone https://github.com/yourusername/diabetes-prediction.git
    cd diabetes-prediction
 
+2. Install the required dependencies using pip:
+
  ```bash
 pip install -r requirements.txt
 ```
