@@ -9,7 +9,6 @@ This machine learning project aims to predict the risk of diabetes in individual
 ## Table of Contents
 
 - [Dataset](#dataset)
-- [Folder Structure](#folder-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
