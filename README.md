@@ -19,32 +19,6 @@ This machine learning project aims to predict the risk of diabetes in individual
 
 The dataset used in this project can be found in the [data](/data) directory. It includes both raw and processed data files. The preprocessing steps are documented in the Jupyter notebooks in the [notebooks](/notebooks) folder.
 
-## Folder Structure
-
-Here's an overview of the project's folder structure:
-
-diabetes-prediction/
-│
-├── data/
-│ ├── raw/
-│ ├── processed/
-│
-├── notebooks/
-│
-├── src/
-│ ├── data_preprocessing/
-│ ├── feature_engineering/
-│ ├── models/
-│ ├── evaluation/
-│ ├── utils/
-│ ├── main.py
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-
-
-Please refer to the [folder structure](#folder-structure) section for a detailed explanation of each directory.
 
 ## Installation
 
@@ -58,8 +32,8 @@ To set up the project environment, you can use the following steps:
 2. Install the required dependencies using pip:
 
   ''' bash
-  pip install -r requirements.txt
-
+     pip install -r requirements.txt
+ '''
 # Usage
 
 To run the project, follow these steps:
