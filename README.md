@@ -1,6 +1,6 @@
 # Diabetes Prediction Project
 
-![Project Image](project_image.png)  <!-- Add an image or logo of your project if desired -->
+![Project Image](https://thumbs.dreamstime.com/z/medicine-diabetes-glycemia-health-care-people-concept-close-up-male-finger-test-stripe-85464437.jpg?w=992)  <!-- Add an image or logo of your project if desired -->
 
 ## Overview
 
