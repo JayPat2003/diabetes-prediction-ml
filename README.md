@@ -61,11 +61,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes to your forked repository.
 5. Create a pull request to merge your changes into the main branch of this repository.
-
-# License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README.md file with more specific information about your project, including model details, results, and any additional resources or references. Good luck with your diabetes prediction project!
